@@ -50,7 +50,7 @@ pip install pyetrade
 ```
 OR
 ```bash
-git clone https://github.com/jessecooper/pyetrade.git
+git clone https://github.com/muhammadzubair112/Etrade-Account-Interaction
 cd pyetrade
 sudo make init
 sudo make install
